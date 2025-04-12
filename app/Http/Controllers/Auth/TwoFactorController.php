@@ -1,0 +1,1 @@
+// laravel_2fa_project/app/Http/Controllers/Auth/TwoFactorController.php content

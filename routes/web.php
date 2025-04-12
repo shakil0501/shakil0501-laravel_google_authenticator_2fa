@@ -1,0 +1,1 @@
+// laravel_2fa_project/routes/web.php content

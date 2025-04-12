@@ -1,0 +1,1 @@
+// laravel_2fa_project/resources/views/auth/2fa.blade.php content
